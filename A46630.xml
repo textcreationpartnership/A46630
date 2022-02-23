@@ -1,0 +1,281 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A narrative of the unfaithful and vexatious practises of Nicholas Clark attroney,[sic] against Marmaduke James Clerk, and his servants.</title>
+            <author>James, Marmaduke.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46630</idno>
+            <idno type="STC">Wing J432A</idno>
+            <idno type="STC">ESTC R219990</idno>
+            <idno type="EEBO-CITATION">99831430</idno>
+            <idno type="PROQUEST">99831430</idno>
+            <idno type="VID">35893</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46630)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35893)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2050:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A narrative of the unfaithful and vexatious practises of Nicholas Clark attroney,[sic] against Marmaduke James Clerk, and his servants.</title>
+                  <author>James, Marmaduke.</author>
+               </titleStmt>
+               <extent>[4], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year 1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect; cropped with some loss of text.</note>
+                  <note>Reproduction of the original in the Bodleian Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Clark, Nicholas, --  attorney --  Early works to 1800.</term>
+               <term>Lawyers --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35893:1" rendition="simple:additions"/>
+            <p>A NARRATIVE OF THE Unfaithful and Vexatious Practiſes OF <hi>NICHOLAS CLARK</hi> ATTRONEY, AGAINST <hi>MARMAD<g ref="char:V">Ʋ</g>KE JAMES</hi> CLERK, And His Servants.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1673.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:35893:2"/>
+            <pb facs="tcp:35893:2"/>
+            <epigraph>
+               <q>
+                  <p>Out of the Eater came forth Meat, and out of the Strong came forth Sweetneſs,</p>
+                  <bibl>
+                     <hi>Judg. 14.14.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <head>For Mr. <hi>W. M.</hi> at his Houſe neer <hi>BED<g ref="char:EOLhyphen"/>FORD.</hi> Theſe.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is ſome Years paſt, when I afflicted my ſelf with words eſcaped from you againſt me, as one you heard was a Contentious Perſon; From that time I have carefully depoſited all Papers <hi>(viz.)</hi> Letters, Certificates, Af<g ref="char:EOLhyphen"/>fidavits, Reports, Rules, and Judgments of Court, <hi>&amp;c.</hi> upon which to ground a Relation; deeply reſolving upon it, ſo ſoon as I could arrive within view of any probable Period of Proceedings between Mr. <hi>Clark,</hi> and my ſelf. Having finiſhed this Narrative for you, and finding it troubleſome to my ſlow Pen to Tranſcribe Others, which, ſome hints given me of the ſame conceit prevailing in theſe Parts, required (not of difficult belief ſince it hath reached <hi>Bedford</hi>) I thought good to be at the charge to Tranſmit theſe Lines to the Preſs, for ſuch a number of Copies, as might diſabuſe both you, and o<g ref="char:EOLhyphen"/>thers. The matter of fact is ſo impartially related, that I think (if need was) I could make Oath to each Par<g ref="char:EOLhyphen"/>ticular.
+<pb facs="tcp:35893:3"/>You will find in them one Arreſt, and two Tryals at Bar, which is all that I have of either, experienced in my whole life. The <hi>Subpoena</hi> in the Butchers Caſe, is the onely one (I remember) in eleven Years Reſi<g ref="char:EOLhyphen"/>dence at <hi>Aſton,</hi> wherein I intended not a Sute, but to encline to a peaceable Agreement, to which I was neceſ<g ref="char:EOLhyphen"/>ſitated by his open Denials to my Demand (a thing of ill conſequence, amongst the reſt, if not ſubdued) ſo reaſonable, that leaving it to his own account upon Agreement (without all charge of Law) amounted to more than double to what demanded. There are divers in my Pariſh, in point of Forbearance, ſo long in Ar<g ref="char:EOLhyphen"/>rears, that I much believe (reſpecting ſome Circum<g ref="char:EOLhyphen"/>ſtances) can ſcarce be parallel'd in the whole County: however, let the Reputation of Contentious lie at his door, that does the wrong, eſpecially when due Appli<g ref="char:EOLhyphen"/>cations are made for Right to prevent Law. Leaving you to the peruſal of the ſubſequent Relation, as alſo to the uſe of both Ears for the future, the rest is, that I am, SIR,</p>
+            <closer>
+               <signed>
+                  <hi>Your Friend &amp; Servant in the GOSPEL,</hi> Marmaduke James.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:35893:3" rendition="simple:additions"/>
+            <head>A NARRATIVE of the Un<g ref="char:EOLhyphen"/>faithful and Vexatious Practiſes of <hi>NICHOLAS CLARK</hi> Attorney, <hi>MARMAD<g ref="char:V">Ʋ</g>KE JAMES</hi> Clerke, and His Servants.</head>
+            <p>
+               <note place="margin">1666.</note>
+               <note place="margin">May.</note>
+               <seg rend="decorInit">A</seg> Bout the Fifteenth of <hi>May,</hi> 1666. reſolving upon a <hi>Subpoena</hi> againſt one <hi>Smith</hi> a Butcher, I met with Mr <hi>Clark,</hi> who tendred his ſervice the ſecond time to the imployment (the firſt being declined) The matter was, that the ſaid <hi>Smith</hi> refuſed to pay for the wintering of a great number of Sheep in Mr. <hi>Burnaps</hi> ground, for which he affirmed that the ſaid <hi>Smith</hi> ought to pay, in that he let him no Paſture Tyth-free; both of them acknowledging a Right, but each refu<g ref="char:EOLhyphen"/>ſing to pay: It is here to be noted, that there was an ancient compoſiti<g ref="char:EOLhyphen"/>on for Vicarage Tyths between Mr. <hi>Burnaps</hi> grounds, and the Rectorie, which he denied not to continue, till the Spring of the Year 1665. after the Butchers Sheep were removed, who had paid as much for the Winter in queſtion, as he did for the Winter before, when they were depaſtured Tyth-free; this I did not ſo fully underſtand till afterwards; however, Mr. <hi>Burnap</hi> ſeems reſponſable to the Butcher in equity (in not foreſeeing the change of his mind at the Spring of the Year to renounce the ſaid anci<g ref="char:EOLhyphen"/>ent compoſition) and the Butcher to me. This is one of the neat bones (a<g ref="char:EOLhyphen"/>mongſt many others) that have been caſt to breed Law; the Mercurial malice whereof, my kind, but not blind charity has ever imputed to ſome other head, than the perſon compriſed in the premiſes.</p>
+            <p>But to leave the digreſſion, Mr. <hi>Clark</hi> (being ignorant as well as my felf, of theſe Circumſtances) would by all means put Mr. <hi>Burnap</hi> into the <hi>Subpoena</hi> alſo, of which I underſtood not the reaſon, ſeeing the Butcher was Proprietor of the Sheep; however, finding his name therein, I ſent my Ser<g ref="char:EOLhyphen"/>vant <hi>John Weeks</hi> to acquaint him, that I intended him no trouble, but that it was Mr. <hi>Clarks</hi> Law to uſe his name, the ground of which appears beſt in the enſuing Story.</p>
+            <p>
+               <note place="margin">June.</note>The Butcher having confer'd with Mr. <hi>Burnap,</hi> repair'd to me upon the ſixth of <hi>June</hi> following, and with his conſent (as he often told me) a<g ref="char:EOLhyphen"/>greed the debt. Soon after I received a Letter, dated the one and twentieth of the ſaid Month, from Mr. <hi>Clark,</hi> either to come up ſpeedily, or ſend
+<pb n="2" facs="tcp:35893:4" rendition="simple:additions"/>matter for a Bill, elſe Mr. <hi>Burnap</hi> would have Coſts, becauſe I Declared not againſt him; upon which I preſently diſpatch'd a paper of many debts forthwith to be form'd into a Bill and put in againſt him, that was ſo greedy of a Suit.</p>
+            <p>
+               <note place="margin">July.</note>By a Letter from Mr. <hi>Clark,</hi> dated the three and twentieth of the ſaid Month, I am advertis'd to forbear any journey to <hi>London,</hi> ſeeing it was a<g ref="char:EOLhyphen"/>greed betwixt him and Mr. <hi>Burnaps</hi> Councel, that no <hi>Subpoena</hi> for Coſts ſhould be taken out, provided the ſaid Bill againſt Mr. <hi>Burnap</hi> was not put in; notwithſtanding I was ſerved with the ſaid <hi>Subpoena,</hi> bearing contempo<g ref="char:EOLhyphen"/>rary date with the ſaid Letter.</p>
+            <p>In the beginning of <hi>July</hi> following, through great inconveniencies, was I thus forced to <hi>London,</hi> where my Councel (upon the treachery and baſe<g ref="char:EOLhyphen"/>neſs of proceedings) adviſed to move the Barons the next morning (being the laſt day of the Term) to whoſe Chamber Mr. <hi>Clark</hi> ſomewhat heavi<g ref="char:EOLhyphen"/>ly moving to make <hi>Affidavit,</hi> touching the truth in his Letters to me, met me there; and adviſed to ſave the Coſts of Motion, becauſe that Mr. <hi>Bab,</hi> Attorney for Mr. <hi>Burnap,</hi> aſſured him that the <hi>Subpoena</hi> ſhould proceed no farther, ſeeing he found him the ſaid Mr. <hi>Burnap</hi> ſo contentious a perſon.</p>
+            <p>
+               <note place="margin">August.</note>In the Vacation following, I perceived that Mr. <hi>Clark,</hi> who would not do me the Juſtice to put in my Bill, had done me the courtiſie to diſcover the matter of it to Mr. <hi>Burnap;</hi> whereupon he grew very importunate for a referrence to any Clergy man,<note place="margin">September.</note> at my own election; which was waved as more than I deſired; and told him ſo far I was from doing him wrong, that I would refer my ſelf to his own Councel, and choice friend, for which I received many thanks of him: with whom Mr. <hi>Burnap,</hi> and I meeting <hi>October</hi> the Eleventh following,<note place="margin">October.</note> Mr. <hi>Burnap</hi> acknowledged all the dues demanded, only the Councel ſuſpended the Agreement of one particular, <hi>(viz.)</hi> that Fatting Cattle ſhould pay by the head) till he could bring the opinion of Baron <hi>Atkins,</hi> which was ſaid ſhould be at the end of <hi>Michael<g ref="char:EOLhyphen"/>mas</hi> Term following.</p>
+            <p>
+               <note place="margin">January.</note>
+               <note place="margin">1667.</note>Many Terms paſſing and nothing declared by the Referree; in the in<g ref="char:EOLhyphen"/>terim finding ſtrange indignities offered by the ſaid Mr. <hi>Burnap</hi> (contrary unto the late kindneſs ſhewed and acknowledged by him) I exhibited by Letter to Mr. <hi>Clark</hi> my ſuſpition of ſome undue proceedings above, upon the aforeſaid <hi>Subpoena</hi> (which Mr. <hi>Clarks</hi> perſwaſions kept from deſtructi<g ref="char:EOLhyphen"/>on ſo long before) he replyed by Letter dated <hi>January</hi> the one and thirtieth 1666, that I need not trouble my ſelf below, when there was nothing acted above. My jealouſies not acquieſeing in this anſwer, repaired to <hi>London;</hi> where I found an Attachment out upon the ſaid <hi>Subpoena,</hi> with which ac<g ref="char:EOLhyphen"/>quainting Mr. <hi>Clark,</hi> (then become Under-Sheriff) and knowing how ill I was dealt with (things being under referrence, and delay on that ſide) deſired that he would ſuſpend any Warrant upon the ſaid <hi>Subpoena,</hi> till I could apply to the Barons (for that remedy which he had before ſo un<g ref="char:EOLhyphen"/>handſomely hindred) to which he anſwered, that I might be aſſured, what he could either in publick or private capacity do for me.<note place="margin">April.</note> Notwſtand<g ref="char:EOLhyphen"/>ing granted a Warrant, the Execution of which came without teeth (no thanks to Mr. <hi>Clark</hi>) a few days after my Application to the Barons; which
+<pb n="3" facs="tcp:35893:4"/>was the firſt day of <hi>Eaſter</hi> Term, being <hi>April</hi> 24. who forthwith made an order to the Remembrancer, to examine and report the truth of my Complaint within ſeven days.</p>
+            <p>Mr. <hi>Burnap</hi> being ſent for, appeared <hi>April</hi> 28. following with the aforementio<g ref="char:EOLhyphen"/>ned Councel, alſo Mr. <hi>Bab</hi> and Mr. <hi>Clark:</hi> Mr. <hi>Burnap</hi> very ingeniouſly acknow<g ref="char:EOLhyphen"/>ledged all the four grounds of my complaint, but his Councel and Attorney <hi>Bab,</hi> denied all the Suggeſtions in Mr. <hi>Clarks</hi> Letters, which the ſaid Mr. <hi>Clark</hi> did not in the leaſt defend, to his great amazement, that ſometimes had known words, but never Letters eaten before.</p>
+            <p>The Remembrancer declared, that the report muſt be againſt Mr. <hi>Burnap,</hi> but I being very deſirous to manifeſt a peaceable diſpoſition towards him (as a perſon ſeduced into theſe unquiet practices) beſought the ſaid Remembrancer, that lay<g ref="char:EOLhyphen"/>ing aſide the report, as the Barons had committed the Examination, ſo I the de<g ref="char:EOLhyphen"/>termination of the whole buſineſs to him; which (after ſome time aſſociating Mr. <hi>Burnaps</hi> Councel with him) he was prevailed with to undertake, and all things in about the ſpace of an hour concluded.</p>
+            <p>
+               <hi>The unhandſome Reſults of this firſt Precedure are,</hi>
+            </p>
+            <p>Seeing that Mr. <hi>Clark</hi> did both put himſelf into the imployment, and Mr. <hi>Bur<g ref="char:EOLhyphen"/>nap</hi> into the <hi>Subpoena</hi> beſides my intention, he ſeemed to be more obliged to the honeſt proſecution of it: eſpecially ſeeing the ſaid Mr. <hi>Burnap</hi> would vexati<g ref="char:EOLhyphen"/>ouſly proceed after the ſaid Butcher with his conſent (and I believe from his purſe) had agreed and paid the Debt.</p>
+            <p>Certainly, Mr. <hi>Clarks</hi> civility had been either to have put in my Bill, which was ſignified as my firſt deſire, or at leaſt ſtopt their <hi>Subpoena,</hi> or not delude me with a pretended ſtoppage, or not have hindered the reverſing the ſaid <hi>Subpoena</hi> while young, under colour of Mr. <hi>Babs</hi> promiſes.</p>
+            <p>Farther, Seeing under reference ſuch foul play as to proceed to Attachment, which he ſecured me againſt by Letter dated <hi>Jan.</hi> 31. 1666. and reſpecting his promiſes as Sheriff in the ſaid Letters, he ſhould have been very tender of grant<g ref="char:EOLhyphen"/>ing the ſaid Warrant, but ſeeing that ſnapped me not before the Term (as intended) Mr. <hi>Clank</hi> upon the hearing ſhould have ſtood both by his ſaid let<g ref="char:EOLhyphen"/>ter of the 23. of <hi>June,</hi> to have proved the <hi>Subpoena</hi> as well as the Attachment colluſive, reſpecting the agreement of Mr. <hi>Burnaps</hi> Councel with him, as alſo the promiſe of the ſaid Mr. <hi>Bab</hi> to him, which was utterly denied both by <hi>Bab</hi> and the ſaid Councel before the Remembrancer</p>
+            <p>Peace being made that night, my Servant <hi>Harriſon</hi> comes up with complaint to me yet in <hi>London,</hi> that he could not follow the work ordered him in my abſence, by reaſon of a Warrant granted from Mr. <hi>Clark</hi> the tenth inſtant, and had nar<g ref="char:EOLhyphen"/>rowly eſcaped Arreſt; I urging this unkindneſs upon Mr. <hi>Clark</hi> to his Clyent (that his Boy that whips the horſe ſhould be Plaintiff againſt his other Servant that holds the Plough, the Maſter being not worthy to be acquainted before the grant of the Warrant, nor afterwards, though I had been many times with him that Term at his Chamber) Mr. <hi>Clark</hi> pretends importunity to the act, and for<g ref="char:EOLhyphen"/>getfulneſs in the diſcovery, but promiſes to make peace at his coming down; the matter of this Sute, being that upon <hi>Eaſter</hi> Eve the ſixth of that inſtant <hi>April,</hi> the ſaid <hi>Harriſon</hi> conceiving himſelf much injured by <hi>Frances Prat</hi> (a ſtory too long here to relate) took him by the coller, and threatned to ſtrike him, if ſo abuſed by him again. This coming to Mr. <hi>Clarks</hi> ear on Tuſeday in <hi>Eaſter</hi> week, a Warrant was ſigned upon Wedneſday the tenth as af<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſaid<g ref="char:punc">▪</g> 'Tis not unknown
+<pb n="4" facs="tcp:35893:5" rendition="simple:additions"/>that Offices are ſhut in the Holy-days, and if open, it was not probable, that an Original could be had to ground Wedneſdays Warrant, upon the Tueſdays complaint.</p>
+            <p>Upon the 29 of the ſaid <hi>April, viz.</hi> 19 days after the grant of the ſaid War<g ref="char:EOLhyphen"/>rant, I ſearch'd the Phileſors Office, but would not diſcover the Attorneys Name (though much importuned to it by Philiſor himſelf) being diſpoſed rather to find the bottome of Mr. <hi>Clarks</hi> intentions, than to expoſe him to ſo great a dam<g ref="char:EOLhyphen"/>age, as upon it would inſue.</p>
+            <p>
+               <note place="margin">Auguſt.</note>All the Cauſes of <hi>Hartford-ſhire</hi> ſearched, (with concealment of the Attor<g ref="char:EOLhyphen"/>neys name) and no entrance found, this my confidence upon Mr. <hi>Clarks</hi> pro<g ref="char:EOLhyphen"/>miſes was confirmed, and that the Arreſt was rather a Scare-crow, than any in<g ref="char:EOLhyphen"/>tended proſecution at Law, till towards the end of Harveſt following, we heard Judgment was entered the Term before; which ſeemed the more ſtrange, not on<g ref="char:EOLhyphen"/>ly in relation to the want of a new. Original, and Mr. <hi>Clarks</hi> promiſe, but alſo that an Arreſt in the middle of <hi>Eaſter</hi> Term, ſhould arrive Judgment in <hi>Trinity</hi> follow<g ref="char:EOLhyphen"/>ing, and not ſo much as a Declaration given to the Defendant in the interim.</p>
+            <p>
+               <note place="margin">September.</note>All means of peace was uſed by Arbitration,<hi>&amp;c.</hi> but evacuated by Mr. <hi>Clark</hi> as upon good grounds we have reaſon to believe (too long here to relate) till at laſt the Boy was perſwaded to releaſe the debt, paying the Coſts of Sute: But <hi>Harriſon</hi> finding Mr. <hi>Clarks</hi> Bill double to what he was informed he ought to pay, and detaining it, craved time to adviſe; upon which, Mr. <hi>Clark</hi> called to his Ser<g ref="char:EOLhyphen"/>vant for a Writ to Arreſt him again (ſo quick is Mr. <hi>Clark</hi> at his Law.)</p>
+            <p>The Defendants Attorney being informed of the unreaſonableneſs of this Bill, with the various expences already occaſioned by the Defendants troubles, as al<g ref="char:EOLhyphen"/>ſo that the opinion of Serjeant <hi>Manard,</hi> Mr. <hi>Conniers,</hi> and others were for him, adviſed him to attend upon Mr. <hi>Clark,</hi> &amp; him at the County Court, ſitting at the <hi>Swan</hi> in <hi>Steavenage,</hi>
+               <note place="margin">October.</note>
+               <hi>October</hi> 17. following, to make tender of 20 <abbr>
+                  <hi>s.</hi>
+               </abbr> to take off the Judgment, and accept a Plea, that they might go to Trial; but no ſooner was <hi>Harriſon</hi> come into the Inn yard, than Arreſted at the Sute of Mr. <hi>Clark,</hi> (this alſo again without Original) and kept Priſoner for the ſpace of 3 hours upon Bond Bayl, while the Writ of Inquiry was executed (in the ſight of the poor man, not ſuffered to ſpeak a word for himſelf;) the matter of this Arreſt (as appeared afterwards, by Mr. <hi>Clarks</hi> Declaration) was for words ſpoken againſt his Bill upon the 17. of <hi>October;</hi> which was, in truth, words ſpoke by <hi>Harriſon</hi> after his Arreſt, to be Bayliff during his detention.</p>
+            <p>Upon all theſe cruelties practiſed againſt a poor Servant (contrary to all ho<g ref="char:EOLhyphen"/>nor as a Gentleman, Faith, and Truth as a Chriſtian, and his Oaths both as She<g ref="char:EOLhyphen"/>riff and Attorney. In <hi>Michaelmas</hi> Term following we complained to the Judges of the Common Pleas, who ſtopped the ſaid Judgment, and upon Service of the Rule the ſaid Mr. <hi>Clark</hi> threatned,<note place="margin">January.</note> ſaying, He had done with the Servant, and woul'd now begin with the Maſter: I offering appearance, the ſaid Mr. <hi>Clark</hi> re<g ref="char:EOLhyphen"/>fuſed, ſaying, He would Sue me to the Outlawry, notwithſtanding the fourth of <hi>Jan.</hi> following I was Areſted by him.</p>
+            <p>The matter being that I had not paid him for ſoliciting the forementioned Cauſe of Mr. <hi>Burnap,</hi> and the Butcher; I had many Months before ſent him 10 <abbr>
+                  <hi>s.</hi>
+               </abbr> for the <hi>Subpoena,</hi> which was all that he had done (ſaving the trouble and charge he had given me in many journeys to <hi>London</hi> to retrive his prevarications) he ac<g ref="char:EOLhyphen"/>cepted this mony, never objected againſt it as too little, gives no demand, or bil of particulars, yet now declares for his Solicitation (more truly called Sophiſt</p>
+            <pb n="5" facs="tcp:35893:6"/>
+            <p>There being now three Actions on foot, in <hi>Hilary</hi> following we complained of all theſe Vexations to the Judges of the ſaid Bench, who committed them to Mr. <hi>Pinſont</hi> then Prothonotary, who reported as followeth.</p>
+            <p>
+               <hi>Having examined the matter referred to me,</hi>
+               <note place="margin">Februa.</note>
+               <hi>I humbly certifie that upon Examination I find by the Oath of</hi> Marm. James, <hi>that neer</hi> 3 <hi>weeks after the date of the Warrant upon which</hi> Harriſon <hi>was Arreſted, the ſaid</hi> Marm. James <hi>ſearched the Phileſors Of<g ref="char:EOLhyphen"/>fice for</hi> Hartfordſhire, <hi>and no Writ was taken out at the Sute of the Plaintiff</hi> Prat, <hi>which alſo is certified under the Phileſors hand.</hi>
+            </p>
+            <p>
+               <hi>By the ſaid Mr.</hi> James <hi>his Oath, I find; that in</hi> Eaſter <hi>Term laſt, about the</hi> 29. <hi>day of</hi> April, <hi>the above named Mr.</hi> Nicholas Clark, <hi>who (as Attorney, managed the Cauſe for the Plaintiff though <g ref="char:V">Ʋ</g>nder ſheriff of</hi> Hartfordſhire) <hi>did promiſe to make peace between the parties, and end the matter ſpeedily; yet in</hi> Trin. <hi>Term Judgment was entred, the Plaintiff being a Minor not admitted to proſecute by his</hi> Procheina<g ref="char:EOLhyphen"/>my, <hi>though in the Declaration it is inſerted that he is</hi> Specialiter admiſſus, <hi>which was alſo certified from Mr.</hi> Farmers <hi>Office.</hi>
+            </p>
+            <p>
+               <hi>I find by the Oath of the Defendant</hi> Harriſon, <hi>that he having heard of the Judgment, to prevent farther charges, uſed means to compoſe the difference, and thereupon it was agreed, he ſhould pay the charge of the Sute, the Bill of which he received the</hi> 10: <hi>of</hi> October <hi>laſt, ſeven days before the Writ of Inquiry waa executed.</hi>
+            </p>
+            <p>
+               <hi>I find alſo by the Oath of the Defendant</hi> Harriſon, <hi>that he offering to bring away the Bill to be adviſed upon, the ſaid Mr.</hi> Clark <hi>threatned him with a new Arreſt, and afterwards, upon the</hi> 17. <hi>of</hi> Octob. <hi>the Defendant was Arreſted at Mr.</hi> Clarks <hi>own Sute, and kept Priſoner for the ſpace of three hours, and in the mean while the Writ of Inquiry was executed (as the Defendant was afterwards inform'd) and no notice gi<g ref="char:EOLhyphen"/>ven to the Defendant, or his Attorney.</hi>
+            </p>
+            <p>
+               <hi>The Writ of Inquiry and Judgment was ſtopped</hi> Mich. <hi>Term laſt by Rule.</hi>
+            </p>
+            <p>
+               <hi>Mr.</hi> Clark <hi>hath declared at his own Sute againſt</hi> Harriſon <hi>for words ſuppoſed to be ſaid of him concerning the ſaid Bill of Charges.</hi>
+            </p>
+            <p>
+               <hi>I find that the Bill of Charges amounts to</hi> 2 <abbr>l.</abbr> 12 <abbr>s.</abbr> 9 <abbr>d.</abbr>
+               <hi>as it was delivered to the Defendant; of that, over and beſides juſt Fees,</hi> 12 <abbr>s.</abbr> 6 <abbr>d.</abbr>
+               <hi>beſides</hi> 6 <abbr>s.</abbr> 8 <abbr>d.</abbr>
+               <hi>which he charges for attending the Writ of Inquiry before it was executed.</hi>
+            </p>
+            <p>Upon the examination of part of this report, the Bench (all riſing up) more than once declared, Mr. <hi>Clark</hi> did highly deſerve to be thrown over the Bar, and for leſs than half what he had done, others had been ſo puniſhed. But I not ſuffering the Councel to move, much leſs to inſiſt upon the Severity, and Mr. <hi>Clark</hi> ſubmitting himſelf upon his knees; they ordered that both the Sutes againſt <hi>Harriſon</hi> ſhould be taken off, and the charge of both the Servants, Plaintiff and Defendant laid upon him the ſaid Mr. <hi>Clark,</hi> and 5 <abbr>l.</abbr> to be paid <hi>Harriſon</hi> for his unjuſt diſturbance: Farther commanded the ſaid Mr. <hi>Clark</hi> to purſue what he moved <hi>(viz.)</hi> that the Sute of the ſaid <hi>M. James</hi> ſhould be referred to the Gen<g ref="char:EOLhyphen"/>lemen of the Countrey, and ſo charging him againſt theſe vexatious ways, left him to his good behaviour.</p>
+            <p>I divers times ſent my Servant to him touching the ſaid Referrence,<note place="margin">March.</note> but could hear nothing from him, though I offered to refer my ſelf to the two Gentlemen of Mr. <hi>Clarks</hi> own nomination at <hi>London</hi> in the day of his diſtreſs <hi>(vix.)</hi> Mr. <hi>Field</hi> and Mr. <hi>Winch;</hi> but he neither ſeemed to meddle in the Action or Arbitration,<note place="margin">1668.</note> but all at preſent amort: Save that in <hi>June</hi> following, his ſpirits ſo far revived, as to inform the Crown Office againſt the poor Servant <hi>Harriſon</hi> (forgetting what he had ſaid ere while, that he had done with the Servant, <hi>&amp;c.</hi> the Copy whereof as
+<pb n="6" facs="tcp:35893:7"/>'tis upon the File, is this; <hi>Sir</hi> Thomas Fanſhaw, <hi>I pray you exhibit an Information againſt</hi> John Harriſon <hi>Labourer, for an Aſſault upon</hi> Francis Prat <hi>jun. done about the</hi> 15. <hi>of</hi> April 1667. <hi>at</hi> Aſton, <hi>and I will proſecute the ſame,</hi> Nich, Clark, Norton, June 9. 1668. This is the ſame buſineſs that he was upon his knees for, and ſo narrowly eſcaped the Bar but in <hi>February</hi> before; to this <hi>Harriſon</hi> appeared, and then pleaded, expecting Mr. <hi>Clark</hi> Proſecution to Trial, as his note promiſeth to the Maſter of the Office; upon which waiting almoſt the ſpace of five years in vain (being not able to try it by <hi>Proviſo</hi>) <hi>Octob.</hi> 24. laſt took out his diſcharge.</p>
+            <p>But to return to Mr. <hi>Clarks</hi> Cauſe with me, that had now got heart by above a Twelve-months fallow (by which time alſo through death,<note place="margin">1669.</note> and removal, the Bench of Common Pleas was almoſt altered into oblivion of him, and his ſub<g ref="char:EOLhyphen"/>miſſion) the firſt action,<note place="margin">April.</note> and my appearance to it, was waved; and the ſame thing (according to the former threats) revived, for I was (as the then Under-Sheriff informed me) neer Sued to the Outlary (ſtill without Original) which I ſuperſeded in <hi>Eaſter</hi> Term following, and leaving <hi>London,</hi> and my Cauſe with my Attorney to plead <hi>Non aſsumpſit,</hi> the next Term, who (being dealt withal Mr. <hi>Clark</hi> can beſt tell how) pleaded nothing at all, ſo that Judgment paſſed by default, which was ſome Terms afterwards overthrown by Writ of Error.</p>
+            <p>Mr. <hi>Clark</hi> much fleſh'd with this defeat, reſolves to make it a total Rout, and therefore according to the time of the year he uſeth to accuſe in <hi>(viz.) June</hi> (a month much to be obſerved for <hi>Midſummer-Moon,</hi> poſſibly ſhe too then in <hi>A<g ref="char:EOLhyphen"/>ries</hi>) he is much bent for the Crown Office, where he now informs againſt me in theſe words;<note place="margin">June.</note>
+               <hi>Sir</hi> Thomas Fanſhaw, <hi>I pray you exhibit an Information of Perjury a<g ref="char:EOLhyphen"/>gainſt</hi> Marm. James <hi>Clerk, and this ſhall be your Warrant, witneſs my hand,</hi> June 28 1669. Nich. Clark, Norton.</p>
+            <p>This Information is grounded upon my firſt <hi>Affidavit,</hi> that ſtopt the Judg<g ref="char:EOLhyphen"/>ment againſt my Man <hi>Harriſon,</hi> the true copy whereof followeth.</p>
+            <p>Marmaduke James <hi>of</hi> Aſton <hi>in the County of</hi> Hartfored <hi>Clerk, maketh Oath, that he this Deponent having been informed that there was a Warrant out from the Sheriff for Arreſting the Defendant</hi> John Harriſon, <hi>this Deponents Servant, did in, or about the</hi> 29. <hi>day of</hi> April <hi>laſt, repair to Mr.</hi> Nich. Clark <hi>then <g ref="char:V">Ʋ</g>nder-ſheriff of</hi> Hertford-ſhire <hi>(who as this Deponent is informed acts in this Cauſe as Attorney for the Plain<g ref="char:EOLhyphen"/>tiff in the name of another) and declaring to the ſaid Mr.</hi> Clark <hi>a diſlike of his pro<g ref="char:EOLhyphen"/>ceedings againſt the Defendant at the Plaintiffs Sute (the Plaintiff and Defendant be<g ref="char:EOLhyphen"/>ing then both Servants to this Deponent) the ſaid Mr.</hi> Clark <hi>adviſed this Deponent to make peace between them, which if he, this Deponent could not effect, the ſaid Mr.</hi> Clark <hi>affirmed he would do it when he ſhould come down into the Country, or to that ef<g ref="char:EOLhyphen"/>fect; notwithſtanding, about the ſixth of</hi> May <hi>laſt in</hi> Eaſter <hi>Term the Defendant was Arrested, and forced to retain Mr.</hi> Draper <hi>an Attorney of this Court to appear for him, the matter in queſtion being about a Stroke, or Aſſault pretended to be given by the Defendant</hi> Harriſon <hi>to the Plaintiff</hi> Prat, <hi>being a Boy under the ſaid</hi> Harriſon <hi>in this Deponents Service, and this Deponent had not notice of any proceedings at Law in the buſineſs, untill after</hi> Trin. <hi>Term laſt, and then had notice, that Judgment was en<g ref="char:EOLhyphen"/>tered againſt the Defendant by</hi> non ſum informatus: <hi>
+                  <g ref="char:V">Ʋ</g>pon which Judgment, this Deponent is informed a Writ of Inquiry is executed, without due notice given to the At<g ref="char:EOLhyphen"/>torney for the Defendant; which he, this Deponent, verily believeth to be true, for that Mr.</hi> Draper, <hi>the Defendants Attorney, did not above three days before the Writ of In<g ref="char:EOLhyphen"/>quiry was executed, acquaint this Deponent, that he had not due notice of the time of the execution of the ſaid Writ of Inquiry: and this Deponent farther ſaith, that
+<pb n="7" facs="tcp:35893:7"/>he hath cauſed ſearch to be made in Mr.</hi> Farmers <hi>Office, and cannot upon ſearch find there is any admittance of a Guardian, or Procheinamy for the Plaimiff, although he be a minor, and although that the Plaintiff does pretend, that there is a Guardian, or Guardians ſpecially admitted by the Court for that purpoſe, this Oath was made</hi> Octo<g ref="char:EOLhyphen"/>ber 25. 1667.</p>
+            <p>Upon this <hi>Affidavit</hi> Mr. <hi>Clark</hi> informs; That <hi>I having not God before mine eyes, but by instigation of the Devil, moved, and ſeduced, did falſly, maliciouſly, voluntari<g ref="char:EOLhyphen"/>ly, and corruptly ſpeak, depoſe, ſwear, and make</hi> Affidavit, <hi>that</hi> Francis Prat <hi>was my Servant, whereas in truth, and in fact he was not my Servant at the time of the afore<g ref="char:EOLhyphen"/>ſaid aſſault, &amp; that then indeed and in fact I had notice of all the Proceſs at Law againſt</hi> Harriſon, <hi>which is denyed in the</hi> Affidavit.<note place="margin">1667.</note> Of this I knew nothing till about 12 months afterwards, by accident a friend of mine heard Mr. <hi>Burgaine,</hi> then Under-Sheriff with Mr. <hi>Clarks</hi> aſſiſtance in the Office) inquire of Mr. <hi>Ward</hi> Attorney for <hi>Hartfordſhire</hi> in the Crown-Office,<note place="margin">June. Mr. <hi>Gr<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> of <hi>Cle<g ref="char:EOLhyphen"/>ments-I</hi>
+               </note> whether there was not a <hi>Capias</hi> out againſt me, and upon the 14. of <hi>June</hi> following (ſtill under the ſame unlucky and accu<g ref="char:EOLhyphen"/>ſing Moon) Mr. <hi>Clark</hi> did ſend down a copy of Articles to the Commiſſaries Court, ſitting then at <hi>Steavenage,</hi>
+               <note place="margin">
+                  <hi>June</hi> 14</note> in which was (amongſt other things of like truth) inſerted that I was guilty of Perjury, for which I ſtood Indicted in the Crown-Office.</p>
+            <p>A while after I was cited to the Court to anſwer the ſaid Charge,<note place="margin">August.</note> where after matters had depended for above the ſpace of 12 months to my great diſgrace, and no proceedings upon them; to vindicate my ſelf from the aſperſion in <hi>Mi<g ref="char:EOLhyphen"/>chaelmas</hi> Term I did bring it by way of <hi>Proviſo</hi> to Tryal in <hi>Guild-hall:</hi> In order to which, being come to <hi>London,</hi> upon the 26. of <hi>October (viz.)</hi> five days before the ſaid Tryal, by accident, heard I was excommunicate for want of Appearance (which I had performed by my Proctor 12 months before) Mr. <hi>Clarks</hi> deſign being (I ſuppoſe) to ſtop my mouth (wherein he was defective in his Law (for though it be true, I brought on the Tryal, yet was I ſtill but Defendant in Court, againſt whom Excommunication was no bar; however) I thought it inconvenient to ſtand ſo, upon what pretence ſoever, and therefore the next morning applying to the Judge of the Arches, was abſolved by him, and received a Citation for Mr. <hi>Clark</hi> thither, where he now is, and we ſtill leave him to make good the ſaid Excommunication.<note place="margin">October.</note>
+            </p>
+            <p>The Tryal was upon the 31. of <hi>October</hi> before Sir <hi>Matthew Hale,</hi> Lord Chief-Juſtice of <hi>England,</hi> who having peruſed the Record, ſtood up, and declared, that the Oath therein contained, he did believe was a true Oath, and ſomewhat poſſionately inquired after the Informant, what, who, where he was? to which no anſwer being given, after Proclamation made, with much ado, one appeared for Mr. <hi>Clark</hi> (who had abſented himſelf, which is the more be obſerved, that ſince he was upon his knees, in the many bickerings I have had with him, he has ever ſhunn'd the face of a Judge) the matter in Alligation was, that I confeſt in my <hi>Affidavit,</hi> that <hi>Harriſon</hi> was Arreſted, and yet I knew of no proceedings at Law. Methinks Mr. <hi>Clark</hi> ſhould have conſidered, that as the Arreſt was confeſt, ſo it muſt be underſtood, as the entrance into, and not proceedings at Law. The Judg throwing this off as frivolous, demanded if they had any proof; to which was replyed, no. The Jury gave it at the Bar, and my Witneſſes <hi>Harriſon</hi> and <hi>Prat</hi> (who might very well have evidenced the Boys ſervice, when the pretend<g ref="char:EOLhyphen"/>ed aſſault was, being upon <hi>Eaſter Eve</hi> almoſt the middle point of that Year where in he ſerved me) returned home again unſworn.</p>
+            <pb n="8" facs="tcp:35893:8"/>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>tember.</note>After this Tryal, I ordered my Attorney to file a Bill againſt Mr. <hi>Clark</hi> for dammage, who ſending his Servant Mr. <hi>Brooks</hi> to him, promiſed to plead, ſo that things ſhould be in forwardneſs againſt <hi>Hillary</hi> following; when Mr. <hi>Clark</hi> refu<g ref="char:EOLhyphen"/>ſed to ſtand to his word (a practice I am told ſomewhat uſual with him, that well knows words are but wind) ſo that the ſaid <hi>Brooks</hi> was forced to make Oath before Judg <hi>Wild,</hi> to conſtrain him to plead, or be fore-judged, the copy of whoſe <hi>Affidavit</hi> bears date the 31. of <hi>Jan.</hi> laſt.<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nuary.</note>
+            </p>
+            <p>
+               <note place="margin">1672.</note>Having now got Mr. <hi>Clark</hi> ſure, it was time to have peruſal of the Declarati<g ref="char:EOLhyphen"/>on, wherein being very much unſatisfied, I repaired to Councel above, upon whoſe advice, and my motion, the Bench made a Rule, that I ſhould have liber<g ref="char:EOLhyphen"/>ty to amend it,<note place="margin">May.</note> and Mr. <hi>Clark</hi> ſtill bound to plead; but here he gave me the ſlip, and I knew not how to collar him again, ſeeing that all the Law can do, is but to convict the perſon as guilty, and make him indure judgment, which by his <hi>Nihil dicit,</hi> is implyed, and granted; the meaning of which ſeems to be for mi<g ref="char:EOLhyphen"/>tigation of dammages, by declining a grave, and ſolemn hearing before the Lord Chief Juſtice, and a well ſtated Jury, to bring it to that of inquiry, whoſe verdict is not uſually high in ſuch matters, yet ſo far were they poſſeſſed upon hearing of the injury done me, they gave me 100 <hi>ll.</hi> dammage, and the Prothonotaay aſ<g ref="char:EOLhyphen"/>ſigned againſt him for that Sute five and twenty pounds Coſts. To this Mr, <hi>Clark retardationis gratia</hi> (I ſuppoſe) has brought his Writ of Error, in which I preſume his belief,<note place="margin">July.</note> I deſire his ſucceſs may not be the ſame againſt me, that mine was a<g ref="char:EOLhyphen"/>gainſt him, where the Error was ſo clear that no Councel appeared againſt it, the more ſtrange in that my Attorney was cajoled into ſuch connivance (by what Artifice Mr. <hi>Clark</hi> knows beſt) that three times the Record was disfiled for a<g ref="char:EOLhyphen"/>mendment to avoid Error, but all in vain.</p>
+            <p>It is here to be noted, that as upon the approach of the firſt Tryal 'twas thought meet to perplex me with Excommunication; ſo upon the brow of this laſt, a ſtrang thing happens <hi>(viz.)</hi> that all the Records of the paſt proceedings (ſaving a piece of a ſheet) were loſt out of the Crown-Office, which, this uncouth thing with intimation of complaint to the juſteſt of Men, Sir <hi>Matthew Hale,</hi> not a lit<g ref="char:EOLhyphen"/>tle amazed; and with marvellous celerity, all was Recorded anew, and forthwith put under Lock and Key at <hi>Weſtminſter.</hi>
+            </p>
+            <p>But who is ſo bold as <hi>Bayard,</hi> acting without fear or wit? I dare not charge this imbeſslement vpon Mr. <hi>Clark,</hi> have found divers perſons at work in other places (poſſibly for the credit of the Fraternity) yet cannot believe any of the Six would ſo concern themſelves, as to venture either their necks or ears for him.</p>
+            <p>To conclude all for brevity ſake (many material paſſages being omitted in this ſtory) theſe things ſeem to challenge obſervation.</p>
+            <p n="1">1. My own weakneſs, that when all things were ſo prepared in the firſt overture for Tryal, and the Bench ſo diſpoſed, that nothing but the Bar (ſo long inſiſted upon) would ſatisfie, that ſuch a fooliſh humor ſhould poſſeſs me as to ſtop the Councels mouth (which was done at the Bar.) The ſour look given me upon the interdiction, I have too often ſince remembred with its intailed proverb <hi>(viz.) Save a Thief from the Gallows, and he will hang you if he can:</hi> but verily I believed more of a Gentleman to be in Mr. <hi>Clark,</hi> than I have ſince found.</p>
+            <p n="2">2. The depth of Mr. <hi>Clarks</hi> plot in its ſeveral diſcents. To accuſe of Perjury; a great crime in any man, eſpecially in him whoſe Profeſſion is truth.</p>
+            <p>Next to conceal it ſo long, that according to the proceedings of that Office I <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nder a <hi>Cavias</hi> for a Priſon, which was not only enqui<g ref="char:EOLhyphen"/>red
+<pb n="9" facs="tcp:35893:8"/>after by the Underſheriff as before, but alſo Mr. <hi>Horton</hi> the Attorney (that brought both the informations againſt us) profeſſed to me a little before the laſt Tryal, that he did wonder how I had eſcaped the Goale.</p>
+            <p>Next how handſomely had the charge come to the Commiſſaries Court, when a Priſon diſabled both perſonal appearance, as alſo preſumed conviction of Perju<g ref="char:EOLhyphen"/>ry to be the ground of it, and then Excommunication might have paſſed much more plauſibly than it now did; under which I was to have been detained till the Living was forfeited; hence a perſon (whom I forbear to name) had not a little buſied, as well his own friends as intellectuals, where, in the caſe, the Title would lye, whether in the Mean, or Supream Patron, and if there, whether in the Broad or Signet Manual (ſuch a ſtir there was about the Bears Skin.)</p>
+            <p>This cannot be reputed as a jealous, or fantaſtical conceit, ſince I had it (be<g ref="char:EOLhyphen"/>ſides many other Circumſtances) from a Judg himſelf, upon his perſonal know<g ref="char:EOLhyphen"/>ledg as he profeſſed; but the ſnare is broken, and I am eſcaped, God in his mer<g ref="char:EOLhyphen"/>cy preventing this infortunate Polititian.</p>
+            <p n="3">3. The next ſtrange thing is, that I being Mr. <hi>Clarks</hi> Friend, and Client, and had as richly requited him for the writings I had imployed him in, as any I am confident ever did; that he ſhould thus unhandſomely ſingle out, innocent, or ra<g ref="char:EOLhyphen"/>ther deſerving me, to practice upon, as the object of his great power in Law: This queſtion is of difficult ſolution, we muſt have recourſe to opinion grounded upon obſervation of Circumſtances.</p>
+            <p>There was a certain perſon that had all along been an incendiary between me and the Pariſhioners; this perſon I found to be the only great acquaintance Mr. <hi>Clark</hi> had in my pariſh; and finding his actions in many things Retrograde; I began to ſuſpect, &amp; early in the very Embrio of his recidivations gave him cau<g ref="char:EOLhyphen"/>tion againſt a dirty tongue, by Letter dated (as I find by the Copy) <hi>Sep.</hi> 27. 1667. notwithſtanding which he proceeds, acted as one bewitch'd (in that upon con<g ref="char:EOLhyphen"/>ſerence with him I could not find but in this diſturbance in my Family he thought he did me a courteſie:) Feminine influence upon ſome mens minds, being like that of the Planets upon their bodies, changing them, and they know not how.</p>
+            <p n="4">4. The laſt is, that I ſhould ingulph my ſelf in ſuch troubles for a Servant, that ſome would not undergo for a Child; here is to be conſidered,</p>
+            <p>That my firſt engagement was only to diſimbroil my Servants, from whom Mr. <hi>Clark</hi> unlooſing his Fangs, will faſten upon me, reſolving by his ſtrength and grandure in Law, to make me deeply repent thoſe firſt, though favourable proceeding againſt him.</p>
+            <p>Farther, the Caſe was mine, and not my Servants, ſeeing the intent was through him to wound me. The aforeſaid female malice interpoſing it ſelf againſt all agreement with the people for their Tyths; to be eaſed of the trouble of ta<g ref="char:EOLhyphen"/>king them in kind, and attend my Studies; I had many years trained up this Ser<g ref="char:EOLhyphen"/>vant the Defendant to the imployment. The deſign being (no doubt) by cruſh<g ref="char:EOLhyphen"/>ing him with Law, to diſable me any way to preſerve my own, and the Rights of the Church: And in Reaſon upon this perſons ruine after ſeven years Service, how could I ever expect to find another furniſhed with that truth and boldneſs, that That Truſt requires? To this ſenſe the Defendant <hi>Harriſon</hi> made <hi>Affidavit, Octob</hi> 25. <hi>Car.</hi> II. 19. <hi>That he, the Deponent had great cauſe to believe, that the whole buſineſs was ſet on foot, and managed by Mr.</hi> Clark, <hi>out of particular ſpleen he had a<g ref="char:EOLhyphen"/>gainſt the Deponents Maſter:</hi> Which I alſo heartily believe, yet ſo, that my oppo<g ref="char:EOLhyphen"/>ſing the Cats foot imployed by the Monke<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to fetch <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+            </p>
+            <pb facs="tcp:35893:9" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
